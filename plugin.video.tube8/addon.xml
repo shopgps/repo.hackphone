@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.tube8" name="Tube8" version="2.1.10" provider-name="Repo.HackPhone">
+	<requires><import addon="xbmc.python" version="2.1.0"/></requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	<summary>Stream adult videos from tube8.com</summary>
+	<description lang="en">Tube8.com features a variety of adult videos. This addon contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon.  All content is hosted by tube8.com.</description>
+	<description lang="vi">Tube8.com đặc trưng một loạt các video dành cho người lớn. Addon này chứa dữ liệu rõ ràng dành cho người lớn. Bạn chỉ có thể xem chương trình bổ trợ này nếu bạn có ít nhất 18 tuổi, hoặc ít nhất là tuổi phần lớn trong thẩm quyền nơi bạn cư trú hoặc từ đó bạn truy cập vào nội dung này. Nếu bạn không đáp ứng những yêu cầu này, sau đó bạn không có quyền để sử dụng addon này.  Tất cả nội dung được lưu trữ bởi tube8.com.</description>
+	<disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+	<platform>all</platform>
+	</extension>
+	<nofanart>true</nofanart>
+</addon>

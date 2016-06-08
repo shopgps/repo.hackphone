@@ -1,5 +1,5 @@
 <?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.hackphone" name="HackPhone Repository" version="0.1.4" provider-name="Repo.Hackphone">
+<addon id="repo.hackphone" name="HackPhone Repository" version="0.1.4" provider-name="Repo.Hackphone">
 	<extension point="xbmc.addon.repository" name="HackPhone Repository">
         <info compressed="true">https://github.com/shopgps/repo.hackphone/raw/master/addons.xml</info>
         <checksum>https://github.com/shopgps/repo.hackphone/raw/master/addons.xml.md5</checksum>
