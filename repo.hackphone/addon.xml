@@ -1,0 +1,18 @@
+<?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hackphone" name="HackPhone Repository" version="0.1.4" provider-name="Repo.Hackphone">
+	<extension point="xbmc.addon.repository" name="HackPhone Repository">
+        <info compressed="true">https://github.com/shopgps/repo.hackphone/raw/master/addons.xml</info>
+        <checksum>https://github.com/shopgps/repo.hackphone/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/shopgps/repo.hackphone/raw/master/repo</datadir>
+	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>HackPhone Repository</summary>
+		<description>Download and install addons from Repo Hackphone</description>
+		<description lang="vi">Tải về và cài đặt từ kho mã nguồn Repo HackPhone.net</description>
+		<disclaimer lang="vi">Kho mã nguồn Repo Hackphone Được biên tập hoặc tổng hợp sưu tập từ nhiều nguồn trên Intenet. Miễn phí và mãi mãi là Miễn phí. Tại trợ từ http://shopgps.net
+			</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
